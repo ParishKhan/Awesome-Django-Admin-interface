@@ -28,7 +28,7 @@
 - **[django-suit](https://github.com/darklow/django-suit/)** - Modern theme for Django admin interface. [No versions listed, 4.x?]
 - **[django-wpadmin](https://github.com/barszczmm/django-wpadmin/)** - WordPress look and feel for Django admin panel. [D 1.8]
 - **[simpleui](https://github.com/newpanjing/simpleui)** - Modern theme based on Vue+Element-UI for Django admin. [D 3.0]
-- **[django-admin-vol](https://github.com/app-generator/django-admin-volt)** - Modern Bootstrap 5 Design. [No versions listed, freemium]
+- **[django-admin-vol](https://github.com/app-generator/django-admin-volt)** - Modern Bootstrap 5 Design. [No versions listed, premium]
 - **[Django Semantic](https://github.com/globophobe/django-semantic-admin)** - Free (MIT) Semantic UI admin theme. [No versions listed, recent updates]
 - **[django-baton](https://github.com/otto-torino/django-baton)** - Modern, responsive Django admin based on Bootstrap 5. [D >= 2.1]
 - **[django-adminlte2](https://github.com/adamcharnock/django-adminlte2)** - Django AdminLTE2 theme using AdminLTE3.
